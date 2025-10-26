@@ -31,5 +31,5 @@ A análise dos resultados indica que não há um "melhor modelo" universal; o de
 
 ## Tabelas Comparativas
 
-![Imagem1](atividade_tuning_hiperparametros/images/img1.png)
-![Imagem2](caminho/para/imagem2.png)
+![Imagem1](atividade_tuning_hiperparametros/images/img1.jpeg)
+![Imagem1](atividade_tuning_hiperparametros/images/img2.jpeg)
